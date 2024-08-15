@@ -1,2 +1,4 @@
 # AOE4-2v2-Match-Fetcher
-A Python script to fetch and store data from the AOE4World.com API, complete with error handling, pagination, and data storage in JSON format.
+This is a Python script to fetch and store data from the aoe4world.com API. It includes error handling, pagination, and data storage in JSON format.
+
+I created this script as a fun project to practice working with APIs and web scraping. The idea came to me after a friend and I got hooked on Age of Empires IV and spent some weekends playing 2v2 games together. The AOE4World website allows users to look up individual profiles and explore various statistics and visualizations, but it’s somewhat limited in the amount of information it provides. By scraping the data, I was able to generate more detailed and complex graphs and insights that the site doesn’t offer. Additionally, this script enables me to specifically analyze the games my friend and I played together. Such a level of flexibility is also not available on the official website.
